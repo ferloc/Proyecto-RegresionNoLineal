@@ -16,3 +16,7 @@ actividad 48 horas antes del domingo a medianoche.
 *Nota*: Tambien estará el archivo **Tiempo de Entrega.csv** el cual es la versión con ciertos datos eliminados y es la que se usa para el resto del código
 
 *Indice*
+- [Base sin modificaciones](A1.6%20Tiempo%20de%20Entrega.csv)
+- [Reporte en HTML](A1.6_641675.html)
+- [Formato en IPYNB](A1.6_641675.ipynb)
+- [Base con modificaciones](Tiempo%20de%20Entrega.csv)
